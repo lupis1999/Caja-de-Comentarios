@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#comentarios {
+    margin-top: 20px;
+}
+
+.comentario {
+    background: #f4f4f4;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.fecha {
+    font-size: 0.8em;
+    color: gray;
+}
+
+button {
+    margin-top: 5px;
+    cursor: pointer;
+}
